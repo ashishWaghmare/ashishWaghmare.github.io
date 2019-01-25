@@ -1,12 +1,10 @@
 # Ashish Waghmare
 
-Passionate technologist with keen eyes on tech trends
+Passionate technologist with keen eyes on tech trends and picking up right technology for Given Problem
 
 ## Cloud
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 ## Security
