@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 remote_theme: poole/hyde
+plugins:
+  - jekyll-remote-theme
 
 title: [Cloud Native - Microservices - DevOps] 
 description: [Ashish Waghmare]
