@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+remote_theme: poole/hyde
 
-title: [My Professional Profile]
+title: [Cloud Native - Microservices - DevOps] 
 description: [Ashish Waghmare]

@@ -4,12 +4,11 @@ Passionate technologist with keen eyes on tech trends and picking up right techn
 
 ## Cloud
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Syntax highlighted code block
+Working on different clouds from last 7 years, used first cloud Azure to host very popular website. Utilized AWS for building Big Data platform based of Hadoop and Spark.
 
 ## Security
 
-New gain on commercial value has to lead increase
+Leading import product while in Oracle for Security with Public cloud migration Initiative.
 
 ## DevOps 
 
@@ -17,6 +16,7 @@ Orchestrating tools & people to add right value to company.
 
 ## Tech Strategy
 
-1. Numbered
-2. List
+1. Cloud Native
+2. Hybrid strategy
+3. Culture part of Devops
 
